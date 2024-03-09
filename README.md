@@ -32,7 +32,9 @@ To use the QR Code Scanner:
 
 ## Folder Structure
 QR-Code-Scanner/
+
 │
+
 ├── index.html
 
 ├── style.css
