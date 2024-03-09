@@ -34,7 +34,9 @@ To use the QR Code Scanner:
 QR-Code-Scanner/
 │
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 ## Credits
